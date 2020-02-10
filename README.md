@@ -56,7 +56,7 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 
 * Consulted [SQLAlchemy documentation](https://docs.sqlalchemy.org/en/latest/core/engines.html#postgresql) for more information.
 
-2. Create a bar chart of average salary by title.( Included in the ipynb file)
+2. Created a bar chart of average salary by title.( Included in the ipynb file)
 
 
 ## Scenario Epilogue 
@@ -69,6 +69,6 @@ new_data
 	emp_no	birth-date	first_name	last_name	gender	hire_date
 0	499942	1963-01-10	   April	    Foolsday	  F	  1997-02-10
 
-
+#### employee ID number is 499942 had a name of "APRIL FOOLSDAY"
 
 
