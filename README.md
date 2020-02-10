@@ -67,8 +67,8 @@ new_data = pd.read_sql('SELECT * FROM employees WHERE emp_no = 499942', conn)
 new_data
 
 	emp_no	birth-date	first_name	last_name	gender	hire_date
-0	499942	1963-01-10	   April	    Foolsday	  F	  1997-02-10
+0	499942	  1963-01-10	     April	    Foolsday	  F	  1997-02-10
 
-#### employee ID number is 499942 had a name of "APRIL FOOLSDAY"
+#### employee ID number 499942 had a name of "APRIL FOOLSDAY"
 
 
