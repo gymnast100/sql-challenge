@@ -62,6 +62,5 @@ To achieve a complete database, I performed following :
 		emp_no	birth-date	first_name	last_name	gender	hire_date
 	0	499942	  1963-01-10	     April	    Foolsday	  F	  1997-02-10
 
-#### employee ID number 499942 had a name of "APRIL FOOLSDAY"
-
+#### employee ID number 499942 had a name of "APRIL FOOLSDAY" !
 
