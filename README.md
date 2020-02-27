@@ -1,13 +1,8 @@
 # SQL Challenge - Employee Database: A Mystery in Two Parts
 
-![sql.png](sql.png)
-
-## Scenario Background
-
-It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pweitt Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
-
 ##  Goal of this project :
-To design tables to hold data found in 6 CSVs, import the CSVs into a SQL database, and run Queries to answer questions about the data. 
+
+To design tables to hold data found in 6 CSVs (information about employees of a corporation from 1980s-1990s), import the CSVs into a SQL database, and run Queries to answer questions about the data. 
 
 ## Procedure:
 
