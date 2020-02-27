@@ -9,7 +9,7 @@ The goal of this project was for me to design tables to hold data found in 6 CSV
 #### Data Modeling
 
  I inspected the CSVs and sketched out an ERD of the tables using a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
- ![ERD](/Desktop/⁨⁨GitHub_Images⁩/ERD.png)
+ ![ERD](/images/erd.png)
 
 #### Data Engineering
 
@@ -42,6 +42,7 @@ To achieve a complete database, I performed following :
 ## Querying for employee ID number is 499942.
  
  I examined the data and took the following steps to generate a visualization of the data.
+ ![barchart](/images/barchart.png)
 
 ## Procedure :
 
