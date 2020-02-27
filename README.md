@@ -42,7 +42,7 @@ To achieve a complete database, I performed following :
 ## Querying for employee ID number is 499942.
  
  I examined the data and took the following steps to generate a visualization of the data.
- ![barchart](/images/barchart)
+ ![barchart](/images/barchart.png)
 
 ## Procedure :
 
